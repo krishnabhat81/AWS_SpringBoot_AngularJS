@@ -1,4 +1,4 @@
-package aws.boot.angular;
+package com.aws.boot.angular;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package aws.boot.angular;
+package com.aws.boot.angular;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
