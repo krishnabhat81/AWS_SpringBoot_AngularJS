@@ -11,3 +11,6 @@ public class AwsSpringBootAngularJsApplication {
 		
 	}
 }
+
+//deploy jar to aws EC2
+//scp -i MyEC2Key.pem /Users/krishna1bhat/Desktop/springboot-aws.jar ec2-user@<<remote IP address>>:~/.

@@ -6,7 +6,7 @@
 	<groupId>com.aws.boot.angular</groupId>
 	<artifactId>aws-boot-angular</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>AWS_SpringBoot_AngularJS</name>
 	<description>Java application to the AWS cloud platform (EC2, Relational Database Service, S3 Storage). For front end AngularJS. Very simple customer management app (CRUD).</description>
