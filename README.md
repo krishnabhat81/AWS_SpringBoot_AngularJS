@@ -10,3 +10,5 @@ http://localhost:8080/swagger-ui.html
 First create the new RDS instance on AWS acccount and create username and password as Security group.<br />
 Then set environment variables for AWS key and secret either from device or from STS run->configuration->environment tab
 Run application and can test your rest APIs.
+
+You can find few simple AWS examples from this link: https://github.com/krishnabhat81/aws-examples 
